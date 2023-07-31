@@ -6,8 +6,6 @@ https://www.modular.com
 
 https://www.modular.com/mojo
 
-
-
 ## Mojo Docs
 
 https://docs.modular.com/
@@ -32,10 +30,12 @@ https://playground.modular.com/
 
 <hr>
 
-# ▲ Numbers every LLM Developer should know. 
+# ▲ Other Things
+
+## Numbers every LLM Developer should know. 
 
 https://github.com/ray-project/llm-numbers
 
-# ▲ A guidance language for controlling large language models(LLM).
+## A guidance language for controlling large language models(LLM).
 
 https://github.com/microsoft/guidance

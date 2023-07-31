@@ -1,37 +1,41 @@
-# Modular & Mojo 🔥
-
-https://www.modular.com
-https://www.modular.com/mojo
+# ▲ Modular & Mojo 🔥
 
 <hr>
 
-# Mojo Docs
+https://www.modular.com
+
+https://www.modular.com/mojo
+
+
+
+## Mojo Docs
 
 https://docs.modular.com/
+
 https://docs.modular.com/mojo/
 
-# Mojo Docs - Get Started
+## Mojo Docs - Get Started
 
 https://docs.modular.com/mojo/get-started.html
 
-# Modular_Mojo_AI_Dev
+## Modular_Mojo_AI_Dev
 
 https://docs.modular.com/
 
-# Modular Blog
+## Modular Blog
 
 https://www.modular.com/blog
 
-# Mojo Juypter Playgroud
+## Mojo Juypter Playgroud
 
 https://playground.modular.com/
 
 <hr>
 
-# ▲Numbers every LLM Developer should know. 
+# ▲ Numbers every LLM Developer should know. 
 
 https://github.com/ray-project/llm-numbers
 
-# A guidance language for controlling large language models(LLM).
+# ▲ A guidance language for controlling large language models(LLM).
 
 https://github.com/microsoft/guidance

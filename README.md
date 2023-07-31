@@ -32,10 +32,10 @@ https://playground.modular.com/
 
 # ▲ Other Things
 
-## Numbers every LLM Developer should know. 
+## Numbers every LLM Developer should know
 
 https://github.com/ray-project/llm-numbers
 
-## A guidance language for controlling large language models(LLM).
+## A guidance language for controlling large language models(LLM)
 
 https://github.com/microsoft/guidance
